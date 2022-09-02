@@ -7,6 +7,7 @@ https://docs.google.com/document/d/1GD1SX7ngjsjMEPrrhI3WL4i57nwL-qKu26ZcXrtBNqg/
 INSTRUCTIONS
 
 I. Explaining the variables and names:
+	
 	* Raycasts:
 		- Ray Length: the length of the distance between the center of your camera to the desired object; both raycasts' scripts don't necessarily have the same Ray Lengths, but I would recommend you set them
 		with the same value. For the size of conventional doors, and your player, the raycast length should vary between 1-5f.

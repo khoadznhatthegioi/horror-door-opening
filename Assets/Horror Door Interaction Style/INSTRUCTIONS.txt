@@ -1,7 +1,4 @@
-CREDITS:
-	- Doors models are from Classic Interior Door Pack 1 (https://assetstore.unity.com/packages/3d/props/interior/classic-interior-door-pack-1-118744) and designed by Jan Fidler.
-
-============================================================================================
+===========================================================================================
 FULL DOCUMENTATION
 
 https://docs.google.com/document/d/1GD1SX7ngjsjMEPrrhI3WL4i57nwL-qKu26ZcXrtBNqg/
@@ -10,6 +7,7 @@ https://docs.google.com/document/d/1GD1SX7ngjsjMEPrrhI3WL4i57nwL-qKu26ZcXrtBNqg/
 INSTRUCTIONS
 
 I. Explaining the variables and names:
+	
 	* Raycasts:
 		- Ray Length: the length of the distance between the center of your camera to the desired object; both raycasts' scripts don't necessarily have the same Ray Lengths, but I would recommend you set them
 		with the same value. For the size of conventional doors, and your player, the raycast length should vary between 1-5f.
@@ -92,7 +90,7 @@ II. Steps to use this asset:
 ---------------------------- 
 III. Caveats
 
-	- This method now can only be used when the door is verticle (which verticle direction of the door is parallel to the Y-axis, which is how most doors should be). I will continue to 
-	develop this and update in the future.
+	- This method now can only be used when the door is vertical (in which vertical direction of the door is parallel to the Y-axis; it is how most doors should be). I will continue to develop
+	this and update in the future.
 
 ---------------------------- 

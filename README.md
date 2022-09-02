@@ -1,7 +1,7 @@
 FULL DOCUMENTATION:
 https://docs.google.com/document/d/1GD1SX7ngjsjMEPrrhI3WL4i57nwL-qKu26ZcXrtBNqg/
 
-Buy the full asset (with example scene, doors, sound effects included): https://assetstore.unity.com/packages/slug/227240
+To support me, please buy the full asset (with example scene, doors, sound effects included): https://assetstore.unity.com/packages/slug/227240
 ==============================
 INSTRUCTIONS
 

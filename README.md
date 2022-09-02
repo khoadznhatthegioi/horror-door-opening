@@ -89,7 +89,7 @@ II. Steps to use this asset:
 ---------------------------- 
 III. Caveats
 
-	- This method now can only be used when the door is verticle (which verticle direction of the door is parallel to the Y-axis, which is how most doors should be). I will continue to 
-	develop this and update in the future.
+	- This method now can only be used when the door is vertical (in which vertical direction of the door is parallel to the Y-axis; it is how most doors should be). I will continue to develop
+	this and update in the future.
 
 ---------------------------- 
